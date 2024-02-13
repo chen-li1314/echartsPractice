@@ -269,12 +269,12 @@ onUnmounted(()=>{
         width: 27.6%;
 
         #left-top {
-            height: 53%;
+            height: 56%;
             position: relative;
         }
 
         #left-bottom {
-            height: 31%;
+            height: 28%;
             margin-top: 25px;
             position: relative;
         }
@@ -305,12 +305,12 @@ onUnmounted(()=>{
         width: 27.6%;
 
         #right-top {
-            height: 46%;
+            height: 56%;
             position: relative;
         }
 
         #right-bottom {
-            height: 38%;
+            height: 28%;
             margin-top: 25px;
             position: relative;
         }

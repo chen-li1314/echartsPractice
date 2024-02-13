@@ -1,5 +1,5 @@
 <template>
-    <div class="com-container">
+    <div class="com-container extra-style-hot">
         <div class="com-chart" ref="hotRef"></div>
         <span class="iconfont arr-left" @click="toLeft" :style="comStyle">&#xe6ef;</span>
         <span class="iconfont arr-right" @click="toRight" :style="comStyle">&#xe6ed;</span>
@@ -199,4 +199,6 @@ defineExpose({screenAdapter})
     bottom: 20px;
     color: white;
 }
+
+
 </style>
